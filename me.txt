@@ -1,0 +1,5 @@
+{{#user}
+Name: Mulkallapalli Venu
+Skills: HTML, CSS, JS(Psecudo)
+Email: venupbrk@gmail.com
+{{/user}}
